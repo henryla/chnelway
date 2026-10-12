@@ -1,0 +1,177 @@
+.companyLogo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #555555;
+}
+
+.language01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+}
+
+.language01 a {
+	text-decoration: none;
+}
+
+.title01 {
+	background-color: #223452;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 25%;
+}
+
+.title01 a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.title01 a:hover {
+	color: #FFFFFF;
+}
+
+.title01_on {
+	background-color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 25%;
+}
+
+.title01_on a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.title01_on a:hover {
+	color: #FFFFFF;
+}
+
+.title01_over {
+	background-color: #738AA5;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 25%;
+}
+
+.title01_over a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.title01_over a:hover {
+	color: #FFFFFF;
+}
+
+.title02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.title02 a {
+	text-decoration: none;
+	color: #333333;
+}
+
+.title02 a:hover {
+	color: #999999;
+}
+
+.menu01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #555555;
+	border-bottom-style: dashed;
+	border-bottom-width: thin;
+}
+
+.menu01 a {
+	text-decoration: none;
+	color: #555555;
+}
+
+.menu02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #555555;
+	border-bottom-style: dotted;
+	border-bottom-width: thin;
+}
+
+.menu02 a {
+	text-decoration: none;
+	color: #555555;
+}
+
+.subtitle01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #0033FF;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+}
+
+.subtitle02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #3399FF;
+	border-bottom-style: dotted;
+	border-bottom-width: thin;
+}
+
+.content01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #555555;
+	line-height: 26px;
+}
+
+.content01 a {
+	text-decoration: none;
+	color: #0000FF;
+}
+
+.table01 {
+	border-spacing: 3 3;
+	padding: 5 0 5 0;
+}
+
+.input01 {
+	background-color: #E4E4E4;
+	border: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #555555;
+}
+
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	border-top-color: #CCCCCC;
+	border-top-style: solid;
+	border-top-width: thin;
+	
+}
+
+.hdot {
+	border-right-color: #CCCCCC;
+	border-right-style: dashed;
+	border-right-width: thin;
+}
